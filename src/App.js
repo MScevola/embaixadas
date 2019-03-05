@@ -16,7 +16,7 @@ const AppContainer = styled('div')`
   max-width: 100vw;
   background: #E6E6E6;
   margin: 0;
-  padding: 30px;
+  padding: 0 30px;
   box-sizing: border-box;
   width: 100%;
   min-height: 100vh;

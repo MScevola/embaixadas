@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "nome": "Embaixada Água Verde",
+        "endereco": "Av. Getúlio Vargas",
+        "incricoes": "20"
+    },
+    {
+        "id": "2",
+        "nome": "Embaixada Centro",
+        "endereco": "Av. 7 de Setembro",
+        "incricoes": "28"
+    },
+    {
+        "id": "3",
+        "nome": "Embaixada Portão",
+        "endereco": "Av. República Argentina",
+        "incricoes": "16"
+    },
+    {
+        "id": "4",
+        "nome": "Embaixada Alto da Glória",
+        "endereco": "Rua Mauá",
+        "incricoes": "10"
+    },
+    {
+        "id": "5",
+        "nome": "Embaixada Batel",
+        "endereco": "Av. do Batel",
+        "incricoes": "37"
+    },
+    {
+        "id": "6",
+        "nome": "Embaixada Champagnat",
+        "endereco": "Av. Pe. Agostinho",
+        "incricoes": "28"
+    }
+]
